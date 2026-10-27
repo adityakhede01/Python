@@ -1,0 +1,89 @@
+﻿Python Project Practice
+
+1. Smart Calculator
+Beginner
+Concepts: if-elif-else, while, functions
+Requirements
+* Display a menu for addition, subtraction, multiplication, division, and modulus.
+* Take two numbers from the user.
+* Use separate functions for each operation.
+* Handle division by zero.
+* Repeat until the user selects Exit.
+Bonus: Add power and floor division operations.
+
+2. Student Result Management System
+Beginner
+Concepts: Conditions, loops, functions
+Requirements
+* Input marks for five subjects.
+* Calculate total, percentage, and grade.
+* Check whether the student passed or failed.
+* Validate that each mark is between 0 and 100.
+* Create functions such as calculate_total(), calculate_percentage(), and calculate_grade().
+Bonus: Accept results for multiple students and calculate the class average.
+
+3. ATM Banking Simulator
+Beginner-Intermediate
+Concepts: Nested conditions, loops, functions
+Requirements
+* Verify a PIN.
+* Display balance, deposit, withdrawal, and exit options.
+* Prevent withdrawals exceeding the available balance.
+* Reject invalid amounts.
+* Use separate functions for deposit, withdrawal, and balance enquiry.
+Bonus: Allow only three PIN attempts.
+
+4. Restaurant Billing System
+Beginner-Intermediate
+Concepts: Loops, conditions, functions
+Requirements
+* Display a menu with item prices.
+* Let customers select items and quantities.
+* Calculate the running bill.
+* Apply discounts based on the bill amount.
+* Calculate the final bill, including tax.
+Bonus: Add coupon codes and repeat-order functionality.
+
+5. Number Guessing Game
+Beginner
+Concepts: while, if-else, functions
+Requirements
+* Generate a random number from 1 to 100.
+* Ask the player to guess the number.
+* Display "Too high" or "Too low."
+* Limit the player to seven attempts.
+* Display the final result.
+Bonus: Add easy, medium, and hard difficulty levels with different attempt limits.
+
+6. Shopping Cart and Checkout
+Intermediate
+Concepts: Loops, conditions, functions, lists, dictionaries
+Requirements
+* Store products and prices.
+* Allow customers to add items and quantities.
+* Calculate item-wise and total costs.
+* Apply discounts based on purchase value.
+* Generate a final bill.
+Bonus: Implement removing an item and checking product availability.
+
+7. Password Strength Checker
+Intermediate
+Concepts: Conditions, loops, functions, strings
+Requirements
+* Accept a password from the user.
+* Check its length.
+* Check for uppercase and lowercase letters.
+* Check for digits and special characters.
+* Classify it as weak, medium, or strong according to your defined rules.
+Bonus: Display suggestions to improve a weak password.
+
+8. Employee Attendance and Salary Calculator
+Intermediate
+Concepts: Conditions, loops, functions, dictionaries
+Requirements
+* Enter employee details and days present.
+* Calculate attendance percentage.
+* Calculate salary based on days worked.
+* Apply a bonus or deduction according to attendance rules.
+* Generate an employee summary.
+
